@@ -1,0 +1,831 @@
+2023/12/26 10:49:03 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/26 10:49:03 [notice] 1#1: using the "epoll" event method
+2023/12/26 10:49:03 [notice] 1#1: nginx/1.25.3
+2023/12/26 10:49:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 10:49:03 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/26 10:49:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 10:49:03 [notice] 1#1: start worker processes
+2023/12/26 10:49:03 [notice] 1#1: start worker process 29
+2023/12/26 10:49:03 [notice] 1#1: start worker process 30
+2023/12/26 10:49:03 [notice] 1#1: start worker process 31
+2023/12/26 11:00:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 11:00:38 [notice] 29#29: gracefully shutting down
+2023/12/26 11:00:38 [notice] 30#30: gracefully shutting down
+2023/12/26 11:00:38 [notice] 31#31: gracefully shutting down
+2023/12/26 11:00:38 [notice] 29#29: exiting
+2023/12/26 11:00:38 [notice] 30#30: exiting
+2023/12/26 11:00:38 [notice] 31#31: exiting
+2023/12/26 11:00:38 [notice] 29#29: exit
+2023/12/26 11:00:38 [notice] 30#30: exit
+2023/12/26 11:00:38 [notice] 31#31: exit
+2023/12/26 11:00:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/26 11:00:38 [notice] 1#1: worker process 29 exited with code 0
+2023/12/26 11:00:38 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:00:38 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/26 11:00:38 [notice] 1#1: worker process 30 exited with code 0
+2023/12/26 11:00:38 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:00:38 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/26 11:00:38 [notice] 1#1: worker process 31 exited with code 0
+2023/12/26 11:00:38 [notice] 1#1: exit
+2023/12/26 11:01:27 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/26 11:01:27 [notice] 1#1: using the "epoll" event method
+2023/12/26 11:01:27 [notice] 1#1: nginx/1.25.3
+2023/12/26 11:01:27 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 11:01:27 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/26 11:01:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 11:01:27 [notice] 1#1: start worker processes
+2023/12/26 11:01:27 [notice] 1#1: start worker process 22
+2023/12/26 11:01:27 [notice] 1#1: start worker process 23
+2023/12/26 11:01:27 [notice] 1#1: start worker process 24
+2023/12/26 11:19:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 11:19:17 [notice] 22#22: gracefully shutting down
+2023/12/26 11:19:17 [notice] 23#23: gracefully shutting down
+2023/12/26 11:19:17 [notice] 24#24: gracefully shutting down
+2023/12/26 11:19:17 [notice] 22#22: exiting
+2023/12/26 11:19:17 [notice] 23#23: exiting
+2023/12/26 11:19:17 [notice] 24#24: exiting
+2023/12/26 11:19:17 [notice] 23#23: exit
+2023/12/26 11:19:17 [notice] 22#22: exit
+2023/12/26 11:19:17 [notice] 24#24: exit
+2023/12/26 11:19:17 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/26 11:19:17 [notice] 1#1: worker process 23 exited with code 0
+2023/12/26 11:19:17 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:19:17 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/26 11:19:17 [notice] 1#1: worker process 22 exited with code 0
+2023/12/26 11:19:17 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/26 11:19:18 [notice] 1#1: worker process 24 exited with code 0
+2023/12/26 11:19:18 [notice] 1#1: exit
+2023/12/26 11:20:32 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/26 11:20:32 [notice] 1#1: using the "epoll" event method
+2023/12/26 11:20:32 [notice] 1#1: nginx/1.25.3
+2023/12/26 11:20:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 11:20:32 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/26 11:20:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 11:20:32 [notice] 1#1: start worker processes
+2023/12/26 11:20:32 [notice] 1#1: start worker process 29
+2023/12/26 11:20:32 [notice] 1#1: start worker process 30
+2023/12/26 11:20:32 [notice] 1#1: start worker process 31
+2023/12/26 11:24:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 11:24:56 [notice] 29#29: gracefully shutting down
+2023/12/26 11:24:56 [notice] 30#30: gracefully shutting down
+2023/12/26 11:24:56 [notice] 29#29: exiting
+2023/12/26 11:24:56 [notice] 31#31: gracefully shutting down
+2023/12/26 11:24:56 [notice] 31#31: exiting
+2023/12/26 11:24:56 [notice] 30#30: exiting
+2023/12/26 11:24:56 [notice] 29#29: exit
+2023/12/26 11:24:56 [notice] 31#31: exit
+2023/12/26 11:24:56 [notice] 30#30: exit
+2023/12/26 11:24:56 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/26 11:24:56 [notice] 1#1: worker process 30 exited with code 0
+2023/12/26 11:24:56 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:24:56 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/26 11:24:56 [notice] 1#1: worker process 29 exited with code 0
+2023/12/26 11:24:56 [notice] 1#1: worker process 31 exited with code 0
+2023/12/26 11:24:56 [notice] 1#1: exit
+2023/12/26 11:26:17 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/26 11:26:17 [notice] 1#1: using the "epoll" event method
+2023/12/26 11:26:17 [notice] 1#1: nginx/1.25.3
+2023/12/26 11:26:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 11:26:17 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/26 11:26:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 11:26:17 [notice] 1#1: start worker processes
+2023/12/26 11:26:17 [notice] 1#1: start worker process 28
+2023/12/26 11:26:17 [notice] 1#1: start worker process 29
+2023/12/26 11:26:17 [notice] 1#1: start worker process 30
+2023/12/26 11:34:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 11:34:39 [notice] 29#29: gracefully shutting down
+2023/12/26 11:34:39 [notice] 28#28: gracefully shutting down
+2023/12/26 11:34:39 [notice] 30#30: gracefully shutting down
+2023/12/26 11:34:39 [notice] 29#29: exiting
+2023/12/26 11:34:39 [notice] 28#28: exiting
+2023/12/26 11:34:39 [notice] 30#30: exiting
+2023/12/26 11:34:39 [notice] 29#29: exit
+2023/12/26 11:34:39 [notice] 28#28: exit
+2023/12/26 11:34:39 [notice] 30#30: exit
+2023/12/26 11:34:39 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/26 11:34:39 [notice] 1#1: worker process 29 exited with code 0
+2023/12/26 11:34:39 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:34:39 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/12/26 11:34:39 [notice] 1#1: worker process 28 exited with code 0
+2023/12/26 11:34:39 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 11:34:39 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/26 11:34:39 [notice] 1#1: worker process 30 exited with code 0
+2023/12/26 11:34:39 [notice] 1#1: exit
+2023/12/26 11:35:53 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:35:54 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:35:55 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:35:56 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:35:58 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:36:01 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:36:06 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:36:13 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:36:27 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:36:53 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:37:45 [emerg] 1#1: unknown "resp_body" variable
+2023/12/26 11:40:35 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/26 11:40:35 [notice] 1#1: using the "epoll" event method
+2023/12/26 11:40:35 [notice] 1#1: nginx/1.25.3
+2023/12/26 11:40:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 11:40:35 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/26 11:40:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 11:40:35 [notice] 1#1: start worker processes
+2023/12/26 11:40:35 [notice] 1#1: start worker process 29
+2023/12/26 11:40:35 [notice] 1#1: start worker process 30
+2023/12/26 11:40:35 [notice] 1#1: start worker process 31
+2023/12/27 08:18:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/27 08:18:35 [notice] 30#30: gracefully shutting down
+2023/12/27 08:18:35 [notice] 31#31: gracefully shutting down
+2023/12/27 08:18:35 [notice] 29#29: gracefully shutting down
+2023/12/27 08:18:35 [notice] 31#31: exiting
+2023/12/27 08:18:35 [notice] 30#30: exiting
+2023/12/27 08:18:35 [notice] 29#29: exiting
+2023/12/27 08:18:35 [notice] 29#29: exit
+2023/12/27 08:18:35 [notice] 31#31: exit
+2023/12/27 08:18:35 [notice] 30#30: exit
+2023/12/27 08:18:35 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/27 08:18:35 [notice] 1#1: worker process 29 exited with code 0
+2023/12/27 08:18:35 [notice] 1#1: worker process 30 exited with code 0
+2023/12/27 08:18:35 [notice] 1#1: worker process 31 exited with code 0
+2023/12/27 08:18:35 [notice] 1#1: exit
+2023/12/27 08:36:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:36:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:37:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:37:36 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:38:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:39:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:40:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:41:29 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:42:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:43:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:44:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:45:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:46:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:47:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:48:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:49:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:50:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:51:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:52:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:53:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:54:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:55:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:56:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:57:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:58:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 08:59:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:00:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:01:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:02:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:03:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:04:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:05:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:06:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:07:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:08:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:09:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:10:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:11:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:12:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:13:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:14:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:15:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:16:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:17:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:18:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:19:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:20:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:21:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:22:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:23:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:24:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:25:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:26:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:28:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:29:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:30:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:31:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:32:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:33:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:34:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:35:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:36:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:37:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:38:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:39:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:40:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:41:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:42:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:43:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:44:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:45:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:46:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:47:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:48:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:49:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:50:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:51:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:52:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:53:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:54:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:55:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:56:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:57:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:58:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 09:59:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:00:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:01:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:02:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:03:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:04:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:05:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:06:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:07:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:08:21 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:09:21 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:10:22 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:11:22 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:12:23 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:13:23 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:14:23 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:15:24 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:16:24 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:17:25 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:18:25 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:19:26 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:20:26 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:21:27 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:22:27 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:23:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:24:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:25:29 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:26:29 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:27:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:28:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:29:31 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:30:31 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:31:32 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:32:32 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:33:33 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:34:33 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:35:34 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:36:34 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:37:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:38:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:39:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:40:36 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:41:36 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:42:37 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:43:37 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:44:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:45:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:46:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:47:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:48:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:49:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:50:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:51:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:52:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:53:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:54:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:55:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:56:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:57:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:58:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 10:59:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:00:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:01:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:02:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:03:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:04:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:05:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:06:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:07:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:08:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:09:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:10:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:11:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:12:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:13:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:14:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:15:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:16:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:17:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:18:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:19:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:20:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:21:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:22:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:23:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:24:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:25:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:26:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:27:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:28:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:30:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:31:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:32:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:33:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:34:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:35:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:36:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:37:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:38:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:39:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:40:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:41:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:42:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:43:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:44:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:45:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:46:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:47:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:48:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:49:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:50:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:51:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:52:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:53:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:54:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:55:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:56:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:57:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:58:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 11:59:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:00:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:01:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:02:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:03:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:04:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:05:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:06:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:07:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:08:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:09:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:10:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:11:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:12:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:13:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:14:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:15:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:16:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:17:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:18:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:19:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:20:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:21:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:22:21 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:23:21 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:24:22 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:25:22 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:26:22 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:27:23 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:28:23 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:29:24 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:30:24 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:31:25 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:32:25 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:33:25 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:34:26 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:35:26 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:36:27 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:37:27 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:38:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:39:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:40:28 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:41:29 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:42:29 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:43:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:44:30 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:45:31 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:46:31 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:47:32 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:48:32 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:49:33 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:50:33 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:51:33 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:52:34 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:53:34 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:54:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:55:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:56:35 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:57:36 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:58:36 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 12:59:37 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:00:37 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:01:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:02:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:03:38 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:04:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:05:39 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:06:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:07:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:08:40 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:09:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:10:41 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:11:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:12:42 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:13:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:14:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:15:43 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:16:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:17:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:18:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:19:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:20:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:21:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:22:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:23:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:24:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:25:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:26:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:27:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:28:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:29:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:30:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:31:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:32:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:33:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:34:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:35:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:36:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:37:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:38:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:39:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:40:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:41:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:42:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:43:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:44:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:45:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:46:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:47:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:48:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:49:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:50:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:51:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:52:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:54:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:55:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:56:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:57:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:58:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 13:59:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:00:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:01:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:02:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:03:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:04:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:05:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:06:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:07:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:08:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:09:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:10:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:11:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:12:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:13:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:14:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:15:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:16:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:17:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:18:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:19:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:20:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:21:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:22:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:23:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:24:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:25:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:26:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:27:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:28:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:29:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:30:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:31:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:32:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:33:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:34:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:35:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:36:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:37:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:38:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:39:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:40:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:41:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/27 14:42:20 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/27 14:42:20 [notice] 1#1: using the "epoll" event method
+2023/12/27 14:42:20 [notice] 1#1: nginx/1.25.3
+2023/12/27 14:42:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/27 14:42:20 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/27 14:42:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/27 14:42:20 [notice] 1#1: start worker processes
+2023/12/27 14:42:20 [notice] 1#1: start worker process 22
+2023/12/27 14:42:20 [notice] 1#1: start worker process 23
+2023/12/27 14:42:20 [notice] 1#1: start worker process 24
+2023/12/27 14:43:12 [error] 22#22: *6 open() "/etc/nginx/html/swagger/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /swagger/index.html HTTP/1.1", host: "localhost", referrer: "https://localhost/swagger/index.html"
+2023/12/27 14:43:12 [error] 22#22: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/swagger/index.html"
+2023/12/27 14:43:31 [error] 22#22: *6 open() "/etc/nginx/html/swagger/index.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /swagger/index.html HTTP/1.1", host: "localhost"
+2023/12/27 14:43:31 [error] 22#22: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "https://localhost/swagger/index.html"
+2023/12/27 14:43:48 [error] 22#22: *6 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 15:20:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/27 15:20:42 [notice] 22#22: gracefully shutting down
+2023/12/27 15:20:42 [notice] 24#24: gracefully shutting down
+2023/12/27 15:20:42 [notice] 23#23: gracefully shutting down
+2023/12/27 15:20:42 [notice] 22#22: exiting
+2023/12/27 15:20:42 [notice] 24#24: exiting
+2023/12/27 15:20:42 [notice] 23#23: exiting
+2023/12/27 15:20:42 [notice] 22#22: exit
+2023/12/27 15:20:42 [notice] 24#24: exit
+2023/12/27 15:20:42 [notice] 23#23: exit
+2023/12/27 15:20:42 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/27 15:20:42 [notice] 1#1: worker process 22 exited with code 0
+2023/12/27 15:20:42 [notice] 1#1: worker process 23 exited with code 0
+2023/12/27 15:20:42 [notice] 1#1: worker process 24 exited with code 0
+2023/12/27 15:20:42 [notice] 1#1: exit
+2023/12/27 15:21:40 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/27 15:21:40 [notice] 1#1: using the "epoll" event method
+2023/12/27 15:21:40 [notice] 1#1: nginx/1.25.3
+2023/12/27 15:21:40 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/27 15:21:40 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/27 15:21:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/27 15:21:40 [notice] 1#1: start worker processes
+2023/12/27 15:21:40 [notice] 1#1: start worker process 22
+2023/12/27 15:21:40 [notice] 1#1: start worker process 23
+2023/12/27 15:21:40 [notice] 1#1: start worker process 24
+2023/12/28 09:21:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 09:21:42 [notice] 23#23: gracefully shutting down
+2023/12/28 09:21:42 [notice] 22#22: gracefully shutting down
+2023/12/28 09:21:42 [notice] 24#24: gracefully shutting down
+2023/12/28 09:21:42 [notice] 24#24: exiting
+2023/12/28 09:21:42 [notice] 23#23: exiting
+2023/12/28 09:21:42 [notice] 22#22: exiting
+2023/12/28 09:21:42 [notice] 23#23: exit
+2023/12/28 09:21:42 [notice] 24#24: exit
+2023/12/28 09:21:42 [notice] 22#22: exit
+2023/12/28 09:21:42 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/28 09:21:42 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 09:21:42 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 09:21:42 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 09:21:42 [notice] 1#1: exit
+2023/12/28 09:21:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:21:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:21:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:21:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:26 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:22:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:23:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:24:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:25:44 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:26:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:27:45 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:28:46 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:29:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:30:47 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:31:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:32:48 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:33:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:34:49 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:35:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:36:50 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:37:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:38:51 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:39:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:40:52 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:41:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:42:53 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:43:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:44:54 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:45:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:46:55 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:47:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:48:56 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:49:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:50:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:51:57 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:52:58 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:53:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:54:59 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:56:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:57:00 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:58:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 09:59:01 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:00:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:01:02 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:02:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:03:03 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:04:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:05:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:06:04 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:07:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:08:05 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:09:06 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:10:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:11:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:12:07 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:13:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:14:08 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:15:09 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:16:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:17:10 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:18:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:19:11 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:20:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:21:12 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:22:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:23:13 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:24:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:25:14 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:26:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:27:15 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:28:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:29:16 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:30:17 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:31:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:32:18 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:33:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:34:19 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:35:20 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:36:21 [emerg] 1#1: host not found in upstream "demodocker.todo.api:443" in /etc/nginx/api_backends.conf:3
+2023/12/28 10:37:22 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 10:37:22 [notice] 1#1: using the "epoll" event method
+2023/12/28 10:37:22 [notice] 1#1: nginx/1.25.3
+2023/12/28 10:37:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 10:37:22 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 10:37:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 10:37:22 [notice] 1#1: start worker processes
+2023/12/28 10:37:22 [notice] 1#1: start worker process 22
+2023/12/28 10:37:22 [notice] 1#1: start worker process 23
+2023/12/28 10:37:22 [notice] 1#1: start worker process 24
+2023/12/28 10:38:09 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 10:38:09 [notice] 22#22: gracefully shutting down
+2023/12/28 10:38:09 [notice] 24#24: gracefully shutting down
+2023/12/28 10:38:09 [notice] 23#23: gracefully shutting down
+2023/12/28 10:38:09 [notice] 22#22: exiting
+2023/12/28 10:38:09 [notice] 24#24: exiting
+2023/12/28 10:38:09 [notice] 23#23: exiting
+2023/12/28 10:38:09 [notice] 24#24: exit
+2023/12/28 10:38:09 [notice] 22#22: exit
+2023/12/28 10:38:09 [notice] 23#23: exit
+2023/12/28 10:38:10 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/28 10:38:10 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 10:38:10 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 10:38:10 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/28 10:38:10 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 10:38:10 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 10:38:10 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 10:38:10 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 10:38:10 [notice] 1#1: exit
+2023/12/28 10:39:36 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 10:39:36 [notice] 1#1: using the "epoll" event method
+2023/12/28 10:39:36 [notice] 1#1: nginx/1.25.3
+2023/12/28 10:39:36 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 10:39:36 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 10:39:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 10:39:36 [notice] 1#1: start worker processes
+2023/12/28 10:39:36 [notice] 1#1: start worker process 22
+2023/12/28 10:39:36 [notice] 1#1: start worker process 23
+2023/12/28 10:39:36 [notice] 1#1: start worker process 24
+2023/12/28 10:44:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 10:44:03 [notice] 22#22: gracefully shutting down
+2023/12/28 10:44:03 [notice] 22#22: exiting
+2023/12/28 10:44:03 [notice] 23#23: gracefully shutting down
+2023/12/28 10:44:03 [notice] 24#24: gracefully shutting down
+2023/12/28 10:44:03 [notice] 23#23: exiting
+2023/12/28 10:44:03 [notice] 22#22: exit
+2023/12/28 10:44:03 [notice] 23#23: exit
+2023/12/28 10:44:03 [notice] 24#24: exiting
+2023/12/28 10:44:03 [notice] 24#24: exit
+2023/12/28 10:44:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 10:44:03 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 10:44:03 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 10:44:03 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/28 10:44:03 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 10:44:03 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 10:44:03 [notice] 1#1: exit
+2023/12/28 10:46:39 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 10:46:39 [notice] 1#1: using the "epoll" event method
+2023/12/28 10:46:39 [notice] 1#1: nginx/1.25.3
+2023/12/28 10:46:39 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 10:46:39 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 10:46:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 10:46:39 [notice] 1#1: start worker processes
+2023/12/28 10:46:39 [notice] 1#1: start worker process 22
+2023/12/28 10:46:39 [notice] 1#1: start worker process 23
+2023/12/28 10:46:39 [notice] 1#1: start worker process 24
+2023/12/28 12:19:06 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 12:19:06 [notice] 22#22: gracefully shutting down
+2023/12/28 12:19:06 [notice] 23#23: gracefully shutting down
+2023/12/28 12:19:06 [notice] 24#24: gracefully shutting down
+2023/12/28 12:19:06 [notice] 22#22: exiting
+2023/12/28 12:19:06 [notice] 23#23: exiting
+2023/12/28 12:19:06 [notice] 24#24: exiting
+2023/12/28 12:19:06 [notice] 24#24: exit
+2023/12/28 12:19:06 [notice] 23#23: exit
+2023/12/28 12:19:06 [notice] 22#22: exit
+2023/12/28 12:19:06 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 12:19:06 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 12:19:06 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 12:19:06 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 12:19:06 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/28 12:19:06 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 12:19:06 [notice] 1#1: exit
+2023/12/28 12:20:09 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 12:20:09 [notice] 1#1: using the "epoll" event method
+2023/12/28 12:20:09 [notice] 1#1: nginx/1.25.3
+2023/12/28 12:20:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 12:20:09 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 12:20:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 12:20:09 [notice] 1#1: start worker processes
+2023/12/28 12:20:09 [notice] 1#1: start worker process 22
+2023/12/28 12:20:09 [notice] 1#1: start worker process 23
+2023/12/28 12:20:09 [notice] 1#1: start worker process 24
+2023/12/28 12:24:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 12:24:16 [notice] 22#22: gracefully shutting down
+2023/12/28 12:24:16 [notice] 23#23: gracefully shutting down
+2023/12/28 12:24:16 [notice] 24#24: gracefully shutting down
+2023/12/28 12:24:16 [notice] 22#22: exiting
+2023/12/28 12:24:16 [notice] 23#23: exiting
+2023/12/28 12:24:16 [notice] 24#24: exiting
+2023/12/28 12:24:16 [notice] 23#23: exit
+2023/12/28 12:24:16 [notice] 22#22: exit
+2023/12/28 12:24:16 [notice] 24#24: exit
+2023/12/28 12:24:16 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 12:24:16 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 12:24:16 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 12:24:16 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/28 12:24:16 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 12:24:16 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 12:24:16 [notice] 1#1: exit
+2023/12/28 12:25:52 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 12:25:52 [notice] 1#1: using the "epoll" event method
+2023/12/28 12:25:52 [notice] 1#1: nginx/1.25.3
+2023/12/28 12:25:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 12:25:52 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 12:25:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 12:25:52 [notice] 1#1: start worker processes
+2023/12/28 12:25:52 [notice] 1#1: start worker process 22
+2023/12/28 12:25:52 [notice] 1#1: start worker process 23
+2023/12/28 12:25:52 [notice] 1#1: start worker process 24
+2023/12/28 12:42:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 12:42:19 [notice] 22#22: gracefully shutting down
+2023/12/28 12:42:19 [notice] 23#23: gracefully shutting down
+2023/12/28 12:42:19 [notice] 24#24: gracefully shutting down
+2023/12/28 12:42:19 [notice] 24#24: exiting
+2023/12/28 12:42:19 [notice] 22#22: exiting
+2023/12/28 12:42:19 [notice] 23#23: exiting
+2023/12/28 12:42:19 [notice] 24#24: exit
+2023/12/28 12:42:19 [notice] 22#22: exit
+2023/12/28 12:42:19 [notice] 23#23: exit
+2023/12/28 12:42:19 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 12:42:19 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 12:42:19 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 12:42:19 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 12:42:19 [notice] 1#1: exit
+2023/12/28 12:43:25 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 12:43:25 [notice] 1#1: using the "epoll" event method
+2023/12/28 12:43:25 [notice] 1#1: nginx/1.25.3
+2023/12/28 12:43:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 12:43:25 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 12:43:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 12:43:25 [notice] 1#1: start worker processes
+2023/12/28 12:43:25 [notice] 1#1: start worker process 22
+2023/12/28 12:43:25 [notice] 1#1: start worker process 23
+2023/12/28 12:43:25 [notice] 1#1: start worker process 24
+2023/12/28 13:11:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 13:11:56 [notice] 22#22: gracefully shutting down
+2023/12/28 13:11:56 [notice] 24#24: gracefully shutting down
+2023/12/28 13:11:56 [notice] 24#24: exiting
+2023/12/28 13:11:56 [notice] 23#23: gracefully shutting down
+2023/12/28 13:11:56 [notice] 22#22: exiting
+2023/12/28 13:11:56 [notice] 23#23: exiting
+2023/12/28 13:11:56 [notice] 24#24: exit
+2023/12/28 13:11:56 [notice] 23#23: exit
+2023/12/28 13:11:56 [notice] 22#22: exit
+2023/12/28 13:11:56 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/28 13:11:56 [notice] 1#1: worker process 23 exited with code 0
+2023/12/28 13:11:56 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:11:56 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/28 13:11:56 [notice] 1#1: worker process 22 exited with code 0
+2023/12/28 13:11:56 [notice] 1#1: worker process 24 exited with code 0
+2023/12/28 13:11:56 [notice] 1#1: exit
+2023/12/28 13:14:05 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/28 13:14:05 [notice] 1#1: using the "epoll" event method
+2023/12/28 13:14:05 [notice] 1#1: nginx/1.25.3
+2023/12/28 13:14:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 13:14:05 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2023/12/28 13:14:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 13:14:05 [notice] 1#1: start worker processes
+2023/12/28 13:14:05 [notice] 1#1: start worker process 22
+2023/12/28 13:14:05 [notice] 1#1: start worker process 23
+2023/12/28 13:14:05 [notice] 1#1: start worker process 24

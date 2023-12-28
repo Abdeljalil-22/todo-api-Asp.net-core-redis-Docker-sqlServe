@@ -1,0 +1,93 @@
+2023-12-26 11:01:36.53 Server      Microsoft SQL Server 2017 (RTM-CU31-GDR) (KB5029376) - 14.0.3465.1 (X64) 
+	Jul 30 2023 15:31:58 
+	Copyright (C) 2017 Microsoft Corporation
+	Developer Edition (64-bit) on Linux (Ubuntu 18.04.6 LTS)
+2023-12-26 11:01:36.54 Server      UTC adjustment: 0:00
+2023-12-26 11:01:36.54 Server      (c) Microsoft Corporation.
+2023-12-26 11:01:36.54 Server      All rights reserved.
+2023-12-26 11:01:36.54 Server      Server process ID is 392.
+2023-12-26 11:01:36.54 Server      Logging SQL Server messages in file '/var/opt/mssql/log/errorlog'.
+2023-12-26 11:01:36.55 Server      Registry startup parameters: 
+	 -d /var/opt/mssql/data/master.mdf
+	 -l /var/opt/mssql/data/mastlog.ldf
+	 -e /var/opt/mssql/log/errorlog
+2023-12-26 11:01:36.62 Server      SQL Server detected 1 sockets with 6 cores per socket and 12 logical processors per socket, 12 total logical processors; using 12 logical processors based on SQL Server licensing. This is an informational message; no user action is required.
+2023-12-26 11:01:36.62 Server      SQL Server is starting at normal priority base (=7). This is an informational message only. No user action is required.
+2023-12-26 11:01:36.63 Server      Detected 12673 MB of RAM. This is an informational message; no user action is required.
+2023-12-26 11:01:36.63 Server      Using conventional memory in the memory manager.
+2023-12-26 11:01:36.65 Server      Large Page Allocated: 32MB 
+2023-12-26 11:01:36.65 Server      Page exclusion bitmap is enabled.
+2023-12-26 11:01:36.76 Server      Buffer pool extension is already disabled. No action is necessary. 
+2023-12-26 11:01:36.85 Server      InitializeExternalUserGroupSid failed. Implied authentication will be disabled.
+2023-12-26 11:01:36.85 Server      Implied authentication manager initialization failed. Implied authentication will be disabled.
+2023-12-26 11:01:36.86 Server      Successfully initialized the TLS configuration. Allowed TLS protocol versions are ['1.0 1.1 1.2']. Allowed TLS ciphers are ['ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-ECDSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!DHE-RSA-AES256-GCM-SHA384:!DHE-RSA-AES128-GCM-SHA256:!DHE-RSA-AES256-SHA:!DHE-RSA-AES128-SHA'].
+2023-12-26 11:01:36.88 Server      Query Store settings initialized with enabled = 1, 
+2023-12-26 11:01:36.89 Server      Node configuration: node 0: CPU mask: 0x0000000000000fff:0 Active CPU mask: 0x0000000000000fff:0. This message provides a description of the NUMA configuration for this computer. This is an informational message only. No user action is required.
+2023-12-26 11:01:36.89 Server      The maximum number of dedicated administrator connections for this instance is '1'
+2023-12-26 11:01:36.91 Server      Using dynamic lock allocation.  Initial allocation of 2500 Lock blocks and 5000 Lock Owner blocks per node.  This is an informational message only.  No user action is required.
+2023-12-26 11:01:36.92 Server      In-Memory OLTP initialized on standard machine.
+2023-12-26 11:01:37.23 Server      Database Instant File Initialization: enabled. For security and performance considerations see the topic 'Database Instant File Initialization' in SQL Server Books Online. This is an informational message only. No user action is required.
+2023-12-26 11:01:37.24 Server      Software Usage Metrics is disabled.
+2023-12-26 11:01:37.25 spid5s      Starting up database 'master'.
+2023-12-26 11:01:38.97 spid5s      The tail of the log for database master is being rewritten to match the new sector size of 4096 bytes.  3072 bytes at offset 418816 in file /var/opt/mssql/data/mastlog.ldf will be written.
+2023-12-26 11:01:39.28 spid5s      Converting database 'master' from version 862 to the current version 869.
+2023-12-26 11:01:39.28 spid5s      Database 'master' running the upgrade step from version 862 to version 863.
+2023-12-26 11:01:39.40 spid5s      Database 'master' running the upgrade step from version 863 to version 864.
+2023-12-26 11:01:39.69 spid5s      Database 'master' running the upgrade step from version 864 to version 865.
+2023-12-26 11:01:39.73 spid5s      Database 'master' running the upgrade step from version 865 to version 866.
+2023-12-26 11:01:39.78 spid5s      Database 'master' running the upgrade step from version 866 to version 867.
+2023-12-26 11:01:39.83 spid5s      Database 'master' running the upgrade step from version 867 to version 868.
+2023-12-26 11:01:39.89 spid5s      Database 'master' running the upgrade step from version 868 to version 869.
+2023-12-26 11:01:40.29 spid5s      Resource governor reconfiguration succeeded.
+2023-12-26 11:01:40.29 spid5s      SQL Server Audit is starting the audits. This is an informational message. No user action is required.
+2023-12-26 11:01:40.30 spid5s      SQL Server Audit has started the audits. This is an informational message. No user action is required.
+2023-12-26 11:01:40.71 spid5s      SQL Trace ID 1 was started by login "sa".
+2023-12-26 11:01:40.75 spid20s     Password policy update was successful.
+2023-12-26 11:01:40.77 spid5s      Server name is '48ff51a6002f'. This is an informational message only. No user action is required.
+2023-12-26 11:01:40.79 spid23s     Always On: The availability replica manager is starting. This is an informational message only. No user action is required.
+2023-12-26 11:01:40.80 spid5s      Starting up database 'msdb'.
+2023-12-26 11:01:40.81 spid23s     Always On: The availability replica manager is waiting for the instance of SQL Server to allow client connections. This is an informational message only. No user action is required.
+2023-12-26 11:01:40.81 spid11s     Starting up database 'mssqlsystemresource'.
+2023-12-26 11:01:40.83 spid11s     The resource database build version is 14.00.3465. This is an informational message only. No user action is required.
+2023-12-26 11:01:40.88 spid11s     Starting up database 'model'.
+2023-12-26 11:01:40.95 spid20s     A self-generated certificate was successfully loaded for encryption.
+2023-12-26 11:01:40.97 spid20s     Server is listening on [ 'any' <ipv6> 1433].
+2023-12-26 11:01:40.98 spid20s     Server is listening on [ 'any' <ipv4> 1433].
+2023-12-26 11:01:40.99 Server      Server is listening on [ ::1 <ipv6> 1434].
+2023-12-26 11:01:40.99 Server      Server is listening on [ 127.0.0.1 <ipv4> 1434].
+2023-12-26 11:01:40.99 Server      Dedicated admin connection support was established for listening locally on port 1434.
+2023-12-26 11:01:41.00 spid20s     SQL Server is now ready for client connections. This is an informational message; no user action is required.
+2023-12-26 11:01:42.67 spid5s      The tail of the log for database msdb is being rewritten to match the new sector size of 4096 bytes.  512 bytes at offset 306688 in file /var/opt/mssql/data/MSDBLog.ldf will be written.
+2023-12-26 11:01:42.75 spid11s     The tail of the log for database model is being rewritten to match the new sector size of 4096 bytes.  2048 bytes at offset 75776 in file /var/opt/mssql/data/modellog.ldf will be written.
+2023-12-26 11:01:42.80 spid5s      Converting database 'msdb' from version 862 to the current version 869.
+2023-12-26 11:01:42.81 spid5s      Database 'msdb' running the upgrade step from version 862 to version 863.
+2023-12-26 11:01:42.96 spid11s     Converting database 'model' from version 862 to the current version 869.
+2023-12-26 11:01:42.96 spid11s     Database 'model' running the upgrade step from version 862 to version 863.
+2023-12-26 11:01:43.00 spid5s      Database 'msdb' running the upgrade step from version 863 to version 864.
+2023-12-26 11:01:43.06 spid11s     Database 'model' running the upgrade step from version 863 to version 864.
+2023-12-26 11:01:43.07 spid5s      Database 'msdb' running the upgrade step from version 864 to version 865.
+2023-12-26 11:01:43.12 spid5s      Database 'msdb' running the upgrade step from version 865 to version 866.
+2023-12-26 11:01:43.12 spid11s     Database 'model' running the upgrade step from version 864 to version 865.
+2023-12-26 11:01:43.16 spid5s      Database 'msdb' running the upgrade step from version 866 to version 867.
+2023-12-26 11:01:43.16 spid11s     Database 'model' running the upgrade step from version 865 to version 866.
+2023-12-26 11:01:43.19 spid5s      Database 'msdb' running the upgrade step from version 867 to version 868.
+2023-12-26 11:01:43.20 spid11s     Database 'model' running the upgrade step from version 866 to version 867.
+2023-12-26 11:01:43.24 spid5s      Database 'msdb' running the upgrade step from version 868 to version 869.
+2023-12-26 11:01:43.24 spid11s     Database 'model' running the upgrade step from version 867 to version 868.
+2023-12-26 11:01:43.33 spid11s     Database 'model' running the upgrade step from version 868 to version 869.
+2023-12-26 11:01:43.54 spid11s     Polybase feature disabled.
+2023-12-26 11:01:43.54 spid11s     Clearing tempdb database.
+2023-12-26 11:01:47.55 spid11s     Starting up database 'tempdb'.
+2023-12-26 11:01:49.64 spid11s     The tempdb database has 1 data file(s).
+2023-12-26 11:01:49.66 spid23s     The Service Broker endpoint is in disabled or stopped state.
+2023-12-26 11:01:49.67 spid23s     The Database Mirroring endpoint is in disabled or stopped state.
+2023-12-26 11:01:49.73 spid23s     Service Broker manager has started.
+2023-12-26 11:01:49.89 spid5s      Recovery is complete. This is an informational message only. No user action is required.
+2023-12-26 11:01:49.96 spid16s     The default language (LCID 0) has been set for engine and full-text services.
+2023-12-26 11:06:41.01 spid51      Using 'dbghelp.dll' version '4.0.5'
+2023-12-26 11:06:54.87 spid51      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
+2023-12-26 11:06:54.89 spid51      Using 'xplog70.dll' version '2017.140.3465' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+2023-12-26 11:19:17.89 spid5s      Always On: The availability replica manager is going offline because SQL Server is shutting down. This is an informational message only. No user action is required.
+2023-12-26 11:19:17.90 spid5s      SQL Server is terminating in response to a 'stop' request from Service Control Manager. This is an informational message only. No user action is required.
+2023-12-26 11:19:18.20 spid23s     Service Broker manager has shut down.
+2023-12-26 11:19:18.44 spid5s      SQL Trace was stopped due to server shutdown. Trace ID = '1'. This is an informational message only; no user action is required.

@@ -1,0 +1,92 @@
+version: '3.4'
+
+networks:
+  host:
+    name: host
+    external: true
+  # myAppNetwork: 
+  #   external: true
+
+services:
+  myredise:
+    image: redis
+    ports:
+      #- "6379:6379"
+      - "6379"
+    command: redis-server --requirepass yourpassword
+
+
+  SqlServerDb:
+        image: mcr.microsoft.com/mssql/server:2017-latest
+        ports:
+           - "5533:1433"
+            #- "1433"
+        environment:
+            - "ACCEPT_EULA=Y"
+            - "SA_PASSWORD=myStong_Password123#"
+        volumes:
+        - ./sql/data:/var/opt/mssql/data
+        - ./sql/log:/var/opt/mssql/log
+        - ./sql/secrets:/var/opt/mssql/secrets
+            
+
+  demodocker.todo.api:
+    image: ${DOCKER_REGISTRY-}demodockerapi
+    ports:
+     # - "8080:80"
+      #- "8081:443"
+      - "80"
+      - "443"
+
+    build:
+      context: .
+      dockerfile: DemoDocker.API/Dockerfile
+    environment:
+        ASPNETCORE_URLS: "https://+;http://+"
+        ASPNETCORE_ENVIRONMENT: Development
+        ASPNETCORE_HTTP_PORTS: 8080
+        ASPNETCORE_HTTPS_PORTS: 8081
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+
+  demodocker.user.api:
+    image: ${DOCKER_REGISTRY-}demodockeruserapi
+    build:
+      context: .
+      dockerfile: DemoDocker.User.Api/Dockerfile
+
+
+  demodocker.auth.api:
+    image: ${DOCKER_REGISTRY-}demodockerauthapi
+    build:
+      context: .
+      dockerfile: DemoDocker.Auth.API/Dockerfile
+
+
+  apigateway:
+    build:
+      context: ./Nginx
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "1024:1024"
+      - "443:443"
+
+    restart: always
+    volumes:
+      - ./log/nginx:/var/log/nginx
+
+
+
+
+  
+
+
+
+
+
+
+
+

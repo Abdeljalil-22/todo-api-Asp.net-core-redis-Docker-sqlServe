@@ -1,0 +1,47 @@
+# version: '3.4'
+
+# services:
+#   demodocker.api:
+#     environment:
+#       - ASPNETCORE_ENVIRONMENT=Development
+#       - ASPNETCORE_HTTP_PORTS=8080
+#       - ASPNETCORE_HTTPS_PORTS=8081
+#       - test_App=test112323r
+#     ports:
+#       - "8080"
+#       - "8081"
+#     volumes:
+#       - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+#       - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+services:
+  demodocker.user.api:
+    environment:
+      - "ASPNETCORE_URLS=https://+;http://+"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8082
+      - ASPNETCORE_HTTPS_PORTS=8083
+    ports:
+      # - "8082:80"
+      # - "8083:443"
+      - "80"
+      - "443"
+
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+
+  demodocker.auth.api:
+    environment:
+      - "ASPNETCORE_URLS=https://+;http://+"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8084
+      - ASPNETCORE_HTTPS_PORTS=8085
+    ports:
+      # - "8084:80"
+      # - "8085:443"
+      - "80"
+      - "443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro

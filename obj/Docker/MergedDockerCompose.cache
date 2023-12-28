@@ -1,0 +1,158 @@
+name: dockercompose510043015657040348
+services:
+  SqlServerDb:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: myStong_Password123#
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "5533"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\scripts\myproject
+        target: /path/to/dir
+        bind:
+          create_host_path: true
+  apigateway:
+    build:
+      context: C:\SourceTest\DemoDocker\Nginx
+      dockerfile: Dockerfile
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 1024
+        published: "1024"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: always
+  demodocker.auth.api:
+    build:
+      context: C:\SourceTest\DemoDocker
+      dockerfile: DemoDocker.Auth.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8084"
+      ASPNETCORE_HTTPS_PORTS: "8085"
+      ASPNETCORE_URLS: https://+;http://+
+    image: demodockerauthapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8084"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "8085"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  demodocker.todo.api:
+    build:
+      context: C:\SourceTest\DemoDocker
+      dockerfile: DemoDocker.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ASPNETCORE_URLS: https://+;http://+
+    image: demodockerapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "8081"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  demodocker.user.api:
+    build:
+      context: C:\SourceTest\DemoDocker
+      dockerfile: DemoDocker.User.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8082"
+      ASPNETCORE_HTTPS_PORTS: "8083"
+      ASPNETCORE_URLS: https://+;http://+
+    image: demodockeruserapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8082"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "8083"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\abdeljalil\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  myredise:
+    command:
+      - redis-server
+      - --requirepass
+      - yourpassword
+    image: redis
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose510043015657040348_default

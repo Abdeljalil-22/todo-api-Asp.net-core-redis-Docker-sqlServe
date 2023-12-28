@@ -1,0 +1,12 @@
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\bin\Debug\net8.0\DemoDocker.ServiceDefaults.deps.json
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\bin\Debug\net8.0\DemoDocker.ServiceDefaults.dll
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\bin\Debug\net8.0\DemoDocker.ServiceDefaults.pdb
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.csproj.AssemblyReference.cache
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.AssemblyInfoInputs.cache
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.AssemblyInfo.cs
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.dll
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\refint\DemoDocker.ServiceDefaults.dll
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\DemoDocker.ServiceDefaults.pdb
+C:\SourceTest\DemoDocker\DemoDocker.ServiceDefaults\obj\Debug\net8.0\ref\DemoDocker.ServiceDefaults.dll

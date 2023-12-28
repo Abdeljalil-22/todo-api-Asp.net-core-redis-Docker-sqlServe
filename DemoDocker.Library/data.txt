@@ -1,0 +1,4 @@
+﻿ Add-Migration start -StartupProject     DemoDocker.API  -Project DemoDocker.Library
+
+
+ Script-Migration -StartupProject     DemoDocker.API  -Project DemoDocker.Library

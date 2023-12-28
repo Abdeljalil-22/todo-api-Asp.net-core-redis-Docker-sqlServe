@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eOUI+n81NK6Lv4py4h4BOL+5AywsaDRyPonOszNShKk=",
+  "Source": "DemoDocker.Auth.API",
+  "BasePath": "_content/DemoDocker.Auth.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceTest\\DemoDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.User.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.User.Api\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.Auth.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.Auth.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\eb5883e5-2a3d-4f51-a228-a74ed0cd1b53_csharp-client-generated (1).zip.b53\\src\\IO.Swagger\\Api\\TodoesApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\000083fb-d081-4f4d-ae5a-64de4b15360c_csharp-client-generated (1).zip.60c\\src\\IO.Swagger\\Client\\ApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\076cac33-2fbc-4904-8f3f-29665b585426_csharp-client-generated (1).zip.426\\src\\IO.Swagger.Test\\Api\\TodoesApiTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\92dcf9cc-2572-4214-be03-17be3c61f15c_csharp-client-generated (1).zip.15c\\src\\IO.Swagger\\Model\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\2149d2fc-4850-4d81-904c-327a3a5859f8_csharp-client-generated (1).zip.9f8\\src\\IO.Swagger\\Client\\ApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\22160386-ba54-4c09-bd1e-30ee34e624c5_csharp-client-generated (1).zip.4c5\\src\\IO.Swagger\\Api\\TodoesApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Service\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Service\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Modes\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Modes\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Data\\APIContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Data\\APIContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231211103506_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Migrations\\20231211103506_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231208135404_add db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Migrations\\20231208135404_add db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.ServiceDefaults\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.AppHost\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.AppHost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\DemoDocker.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Controllers\\TodoesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\Controllers\\TodoesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoDocker.API\\DemoDocker.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoDocker.User.Api\\appsettings.json",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\appsettings.json",
+              "RelativeToolTip": "DemoDocker.User.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-28T12:16:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "DemoDocker.User.Api\\Dockerfile",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.User.Api\\Dockerfile",
+              "RelativeToolTip": "DemoDocker.User.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-28T10:34:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.Auth.API\\Dockerfile",
+              "RelativeDocumentMoniker": "DemoDocker.Auth.API\\Dockerfile",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.Auth.API\\Dockerfile",
+              "RelativeToolTip": "DemoDocker.Auth.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-28T10:33:55.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DemoDocker.ServiceDefaults.csproj",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj",
+              "RelativeToolTip": "DemoDocker.ServiceDefaults\\DemoDocker.ServiceDefaults.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-20T11:20:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\92dcf9cc-2572-4214-be03-17be3c61f15c_csharp-client-generated (1).zip.15c\\src\\IO.Swagger\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\92dcf9cc-2572-4214-be03-17be3c61f15c_csharp-client-generated (1).zip.15c\\src\\IO.Swagger\\Model\\Todo.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\92dcf9cc-2572-4214-be03-17be3c61f15c_csharp-client-generated (1).zip.15c\\src\\IO.Swagger\\Model\\Todo.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\92dcf9cc-2572-4214-be03-17be3c61f15c_csharp-client-generated (1).zip.15c\\src\\IO.Swagger\\Model\\Todo.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:21:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2023-12-14T12:59:25.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2023-12-14T12:59:25.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-14T12:59:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\2149d2fc-4850-4d81-904c-327a3a5859f8_csharp-client-generated (1).zip.9f8\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\2149d2fc-4850-4d81-904c-327a3a5859f8_csharp-client-generated (1).zip.9f8\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\2149d2fc-4850-4d81-904c-327a3a5859f8_csharp-client-generated (1).zip.9f8\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\2149d2fc-4850-4d81-904c-327a3a5859f8_csharp-client-generated (1).zip.9f8\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:21:09.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDocker.AppHost\\Program.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\Program.cs",
+              "RelativeToolTip": "DemoDocker.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T11:21:10.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Dockerfile",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Dockerfile",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Dockerfile",
+              "RelativeToolTip": "DemoDocker.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-14T12:59:25.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "DemoDocker.AppHost\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2023-12-20T11:44:31.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "DemoDocker.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "DemoDocker.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T11:48:52.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TodoesApi.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\22160386-ba54-4c09-bd1e-30ee34e624c5_csharp-client-generated (1).zip.4c5\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\22160386-ba54-4c09-bd1e-30ee34e624c5_csharp-client-generated (1).zip.4c5\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\22160386-ba54-4c09-bd1e-30ee34e624c5_csharp-client-generated (1).zip.4c5\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\22160386-ba54-4c09-bd1e-30ee34e624c5_csharp-client-generated (1).zip.4c5\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "ViewState": "AQIAAGICAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:20:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "uhexxwgt.sql",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql",
+              "RelativeDocumentMoniker": "DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql",
+              "RelativeToolTip": "DemoDocker.API\\obj\\Debug\\net8.0\\uhexxwgt.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-12-13T10:22:06.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoDocker.AppHost\\appsettings.json",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.AppHost\\appsettings.json",
+              "RelativeToolTip": "DemoDocker.AppHost\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-20T11:21:08.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "DemoDocker.API\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-14T12:59:25.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DemoDocker.API.csproj",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.csproj",
+              "RelativeDocumentMoniker": "DemoDocker.API\\DemoDocker.API.csproj",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.csproj",
+              "RelativeToolTip": "DemoDocker.API\\DemoDocker.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-14T12:59:25.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoDocker.API\\appsettings.json",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\appsettings.json",
+              "RelativeToolTip": "DemoDocker.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-14T12:59:25.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoDocker.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-14T12:59:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoesApi.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\eb5883e5-2a3d-4f51-a228-a74ed0cd1b53_csharp-client-generated (1).zip.b53\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\eb5883e5-2a3d-4f51-a228-a74ed0cd1b53_csharp-client-generated (1).zip.b53\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\eb5883e5-2a3d-4f51-a228-a74ed0cd1b53_csharp-client-generated (1).zip.b53\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\eb5883e5-2a3d-4f51-a228-a74ed0cd1b53_csharp-client-generated (1).zip.b53\\src\\IO.Swagger\\Api\\TodoesApi.cs",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAAAN0BAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:44:20.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoesApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\076cac33-2fbc-4904-8f3f-29665b585426_csharp-client-generated (1).zip.426\\src\\IO.Swagger.Test\\Api\\TodoesApiTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\076cac33-2fbc-4904-8f3f-29665b585426_csharp-client-generated (1).zip.426\\src\\IO.Swagger.Test\\Api\\TodoesApiTests.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\076cac33-2fbc-4904-8f3f-29665b585426_csharp-client-generated (1).zip.426\\src\\IO.Swagger.Test\\Api\\TodoesApiTests.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\076cac33-2fbc-4904-8f3f-29665b585426_csharp-client-generated (1).zip.426\\src\\IO.Swagger.Test\\Api\\TodoesApiTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:43:29.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\000083fb-d081-4f4d-ae5a-64de4b15360c_csharp-client-generated (1).zip.60c\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\000083fb-d081-4f4d-ae5a-64de4b15360c_csharp-client-generated (1).zip.60c\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\abdeljalil\\AppData\\Local\\Temp\\000083fb-d081-4f4d-ae5a-64de4b15360c_csharp-client-generated (1).zip.60c\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "RelativeToolTip": "..\\..\\Users\\abdeljalil\\AppData\\Local\\Temp\\000083fb-d081-4f4d-ae5a-64de4b15360c_csharp-client-generated (1).zip.60c\\src\\IO.Swagger\\Client\\ApiClient.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T09:43:58.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-14T12:59:25.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Program.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Program.cs",
+              "RelativeToolTip": "DemoDocker.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TodoesController.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Controllers\\TodoesController.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Controllers\\TodoesController.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Controllers\\TodoesController.cs",
+              "RelativeToolTip": "DemoDocker.API\\Controllers\\TodoesController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAIwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-12-08T14:48:29.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DemoDocker.API.http",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.http",
+              "RelativeDocumentMoniker": "DemoDocker.API\\DemoDocker.API.http",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\DemoDocker.API.http",
+              "RelativeToolTip": "DemoDocker.API\\DemoDocker.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2023-12-14T12:59:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\CacheService.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Service\\CacheService.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\CacheService.cs",
+              "RelativeToolTip": "DemoDocker.API\\Service\\CacheService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\ICacheService.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Service\\ICacheService.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Service\\ICacheService.cs",
+              "RelativeToolTip": "DemoDocker.API\\Service\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Modes\\Todo.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Modes\\Todo.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Modes\\Todo.cs",
+              "RelativeToolTip": "DemoDocker.API\\Modes\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIContext.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Data\\APIContext.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Data\\APIContext.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Data\\APIContext.cs",
+              "RelativeToolTip": "DemoDocker.API\\Data\\APIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20231211103506_test.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231211103506_test.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Migrations\\20231211103506_test.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231211103506_test.cs",
+              "RelativeToolTip": "DemoDocker.API\\Migrations\\20231211103506_test.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231208135404_add db.cs",
+              "DocumentMoniker": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231208135404_add db.cs",
+              "RelativeDocumentMoniker": "DemoDocker.API\\Migrations\\20231208135404_add db.cs",
+              "ToolTip": "C:\\SourceTest\\DemoDocker\\DemoDocker.API\\Migrations\\20231208135404_add db.cs",
+              "RelativeToolTip": "DemoDocker.API\\Migrations\\20231208135404_add db.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T12:59:25.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

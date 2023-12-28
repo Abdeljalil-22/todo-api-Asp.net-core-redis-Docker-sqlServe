@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoDocker.API",
+    "\\DemoDocker.Auth.API",
+    "\\DemoDocker.ServiceDefaults",
+    "\\DemoDocker.User.Api"
+  ],
+  "SelectedNode": "\\DemoDocker.User.Api\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\SourceTest\DemoDocker\middlewares\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\SourceTest\DemoDocker\middlewares\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\SourceTest\DemoDocker\middlewares\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\SourceTest\DemoDocker\middlewares\Middleware\obj\Debug\net8.0\ref\Middleware.dll

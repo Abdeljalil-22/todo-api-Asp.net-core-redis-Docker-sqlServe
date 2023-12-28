@@ -1,0 +1,6 @@
+@DemoDocker.API_HostAddress = http://localhost:5039
+
+
+GET {{DemoDocker.API_HostAddress}}/api/todoes
+
+###

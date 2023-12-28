@@ -1,0 +1,17 @@
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\DemoDocker.Library.deps.json
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\DemoDocker.Library.runtimeconfig.json
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\DemoDocker.Library.dll
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\DemoDocker.Library.pdb
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.csproj.AssemblyReference.cache
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.AssemblyInfoInputs.cache
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.AssemblyInfo.cs
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.csproj.CoreCompileInputs.cache
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.dll
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\refint\DemoDocker.Library.dll
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.pdb
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.genruntimeconfig.cache
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\ref\DemoDocker.Library.dll
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\Middleware.dll
+C:\SourceTest\DemoDocker\DemoDocker.Library\bin\Debug\net8.0\Middleware.pdb
+C:\SourceTest\DemoDocker\DemoDocker.Library\obj\Debug\net8.0\DemoDocker.Library.csproj.CopyComplete
