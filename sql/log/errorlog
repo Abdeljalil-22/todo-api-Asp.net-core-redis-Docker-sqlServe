@@ -60,3 +60,7 @@
 2023-12-28 13:14:24.18 spid4s      Recovery is complete. This is an informational message only. No user action is required.
 2023-12-28 13:19:31.75 spid51      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
 2023-12-28 13:19:31.77 spid51      Using 'xplog70.dll' version '2017.140.3465' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+2023-12-28 15:43:32.35 spid4s      Always On: The availability replica manager is going offline because SQL Server is shutting down. This is an informational message only. No user action is required.
+2023-12-28 15:43:32.37 spid4s      SQL Server is terminating in response to a 'stop' request from Service Control Manager. This is an informational message only. No user action is required.
+2023-12-28 15:43:32.83 spid25s     Service Broker manager has shut down.
+2023-12-28 15:43:33.30 spid4s      SQL Trace was stopped due to server shutdown. Trace ID = '1'. This is an informational message only; no user action is required.
