@@ -847,3 +847,121 @@
 2023/12/28 15:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 22
 2023/12/28 15:43:32 [notice] 1#1: worker process 22 exited with code 0
 2023/12/28 15:43:32 [notice] 1#1: exit
+2024/01/03 10:24:25 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/01/03 10:24:25 [notice] 1#1: using the "epoll" event method
+2024/01/03 10:24:25 [notice] 1#1: nginx/1.25.3
+2024/01/03 10:24:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/01/03 10:24:25 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2024/01/03 10:24:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/01/03 10:24:25 [notice] 1#1: start worker processes
+2024/01/03 10:24:25 [notice] 1#1: start worker process 21
+2024/01/03 10:24:25 [notice] 1#1: start worker process 22
+2024/01/03 10:24:25 [notice] 1#1: start worker process 23
+2024/01/03 11:37:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/01/03 11:37:17 [notice] 23#23: gracefully shutting down
+2024/01/03 11:37:17 [notice] 21#21: gracefully shutting down
+2024/01/03 11:37:17 [notice] 22#22: gracefully shutting down
+2024/01/03 11:37:17 [notice] 21#21: exiting
+2024/01/03 11:37:17 [notice] 23#23: exiting
+2024/01/03 11:37:17 [notice] 22#22: exiting
+2024/01/03 11:37:17 [notice] 23#23: exit
+2024/01/03 11:37:17 [notice] 21#21: exit
+2024/01/03 11:37:17 [notice] 22#22: exit
+2024/01/03 11:37:17 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/01/03 11:37:17 [notice] 1#1: worker process 22 exited with code 0
+2024/01/03 11:37:17 [notice] 1#1: signal 29 (SIGIO) received
+2024/01/03 11:37:17 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/01/03 11:37:17 [notice] 1#1: worker process 21 exited with code 0
+2024/01/03 11:37:17 [notice] 1#1: worker process 23 exited with code 0
+2024/01/03 11:37:17 [notice] 1#1: exit
+2024/01/03 11:38:13 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/01/03 11:38:13 [notice] 1#1: using the "epoll" event method
+2024/01/03 11:38:13 [notice] 1#1: nginx/1.25.3
+2024/01/03 11:38:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/01/03 11:38:13 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2024/01/03 11:38:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/01/03 11:38:13 [notice] 1#1: start worker processes
+2024/01/03 11:38:13 [notice] 1#1: start worker process 22
+2024/01/03 11:38:13 [notice] 1#1: start worker process 23
+2024/01/03 11:38:13 [notice] 1#1: start worker process 24
+2024/01/03 11:42:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/01/03 11:42:02 [notice] 23#23: gracefully shutting down
+2024/01/03 11:42:02 [notice] 24#24: gracefully shutting down
+2024/01/03 11:42:02 [notice] 22#22: gracefully shutting down
+2024/01/03 11:42:02 [notice] 23#23: exiting
+2024/01/03 11:42:02 [notice] 24#24: exiting
+2024/01/03 11:42:02 [notice] 22#22: exiting
+2024/01/03 11:42:02 [notice] 23#23: exit
+2024/01/03 11:42:02 [notice] 24#24: exit
+2024/01/03 11:42:02 [notice] 22#22: exit
+2024/01/03 11:42:02 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2024/01/03 11:42:02 [notice] 1#1: worker process 22 exited with code 0
+2024/01/03 11:42:02 [notice] 1#1: worker process 24 exited with code 0
+2024/01/03 11:42:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/01/03 11:42:02 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/01/03 11:42:02 [notice] 1#1: worker process 23 exited with code 0
+2024/01/03 11:42:02 [notice] 1#1: exit
+2024/01/03 11:44:15 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/01/03 11:44:15 [notice] 1#1: using the "epoll" event method
+2024/01/03 11:44:15 [notice] 1#1: nginx/1.25.3
+2024/01/03 11:44:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/01/03 11:44:15 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2024/01/03 11:44:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/01/03 11:44:15 [notice] 1#1: start worker processes
+2024/01/03 11:44:15 [notice] 1#1: start worker process 22
+2024/01/03 11:44:15 [notice] 1#1: start worker process 23
+2024/01/03 11:44:15 [notice] 1#1: start worker process 24
+2024/01/04 12:30:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/01/04 12:30:12 [notice] 22#22: gracefully shutting down
+2024/01/04 12:30:12 [notice] 24#24: gracefully shutting down
+2024/01/04 12:30:12 [notice] 23#23: gracefully shutting down
+2024/01/04 12:30:12 [notice] 22#22: exiting
+2024/01/04 12:30:12 [notice] 24#24: exiting
+2024/01/04 12:30:12 [notice] 23#23: exiting
+2024/01/04 12:30:12 [notice] 24#24: exit
+2024/01/04 12:30:12 [notice] 23#23: exit
+2024/01/04 12:30:12 [notice] 22#22: exit
+2024/01/04 12:30:12 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2024/01/04 12:30:12 [notice] 1#1: worker process 24 exited with code 0
+2024/01/04 12:30:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/01/04 12:30:12 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/01/04 12:30:12 [notice] 1#1: worker process 22 exited with code 0
+2024/01/04 12:30:12 [notice] 1#1: signal 29 (SIGIO) received
+2024/01/04 12:30:12 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/01/04 12:30:12 [notice] 1#1: worker process 23 exited with code 0
+2024/01/04 12:30:12 [notice] 1#1: exit
+2024/01/04 12:30:17 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/01/04 12:30:17 [notice] 1#1: using the "epoll" event method
+2024/01/04 12:30:17 [notice] 1#1: nginx/1.25.3
+2024/01/04 12:30:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/01/04 12:30:17 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2024/01/04 12:30:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/01/04 12:30:17 [notice] 1#1: start worker processes
+2024/01/04 12:30:17 [notice] 1#1: start worker process 22
+2024/01/04 12:30:17 [notice] 1#1: start worker process 23
+2024/01/04 12:30:17 [notice] 1#1: start worker process 24
+2024/01/04 12:30:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/01/04 12:30:17 [notice] 22#22: gracefully shutting down
+2024/01/04 12:30:17 [notice] 23#23: gracefully shutting down
+2024/01/04 12:30:17 [notice] 24#24: gracefully shutting down
+2024/01/04 12:30:17 [notice] 22#22: exiting
+2024/01/04 12:30:17 [notice] 23#23: exiting
+2024/01/04 12:30:17 [notice] 24#24: exiting
+2024/01/04 12:30:17 [notice] 23#23: exit
+2024/01/04 12:30:17 [notice] 22#22: exit
+2024/01/04 12:30:17 [notice] 24#24: exit
+2024/01/04 12:30:18 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/01/04 12:30:18 [notice] 1#1: worker process 22 exited with code 0
+2024/01/04 12:30:18 [notice] 1#1: worker process 23 exited with code 0
+2024/01/04 12:30:18 [notice] 1#1: worker process 24 exited with code 0
+2024/01/04 12:30:18 [notice] 1#1: exit
+2024/01/05 14:24:18 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/01/05 14:24:18 [notice] 1#1: using the "epoll" event method
+2024/01/05 14:24:18 [notice] 1#1: nginx/1.25.3
+2024/01/05 14:24:18 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/01/05 14:24:18 [notice] 1#1: OS: Linux 5.15.90.1-microsoft-standard-WSL2
+2024/01/05 14:24:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/01/05 14:24:18 [notice] 1#1: start worker processes
+2024/01/05 14:24:18 [notice] 1#1: start worker process 22
+2024/01/05 14:24:18 [notice] 1#1: start worker process 23
+2024/01/05 14:24:18 [notice] 1#1: start worker process 24

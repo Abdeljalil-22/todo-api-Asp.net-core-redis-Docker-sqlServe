@@ -1,9 +1,9 @@
 version: '3.4'
 
 networks:
-  host:
-    name: host
+  mynetwork:
     external: true
+    name: host
   # myAppNetwork: 
   #   external: true
 

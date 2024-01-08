@@ -31,7 +31,7 @@ builder.Services.AddJwtAuthentication(builder.Configuration); // JWT Configurati
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddHealthChecks();
 var app = builder.Build();
 
 //app.MapDefaultEndpoints();
@@ -53,5 +53,6 @@ app.UseAuthorization();
 
 
 app.MapControllers();
+app.MapHealthChecks("/healthz");
 
 app.Run();
