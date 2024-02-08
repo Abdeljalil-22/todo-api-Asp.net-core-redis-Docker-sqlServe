@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoDocker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81393431f914655bb883e1ce1e4b5c57a8a4bac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoDocker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoDocker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
